@@ -1,3 +1,6 @@
+# See App Preview
+To play the game <a href="https://613d253dfe7462fa48eb8f13--sudoku-stack-avengers.netlify.app/">click here</a>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
